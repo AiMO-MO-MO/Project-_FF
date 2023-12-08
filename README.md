@@ -30,3 +30,31 @@ Steps:
 
 6 Presentation 10 mins
 
+
+DataFrames: All Combine data, FF_Database
+
+Stats Summary: 	All Combine data
+		FF_database
+
+Box and Whisker: All Combine Data
+		 FF_database
+
+
+Scatter Plots:
+	Career Total Pts By:    Height
+				Weight
+				Vertical
+				Bench
+				Broad Jump
+				3 Cone
+				Shuttle
+				RAS
+
+	Yearly Total Pts By:    Height
+				Weight
+				Vertical
+				Bench
+				Broad Jump
+				3 Cone
+				Shuttle
+				RAS
