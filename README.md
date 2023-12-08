@@ -19,8 +19,7 @@ Steps:
 
 6 Presentation 10 mins
 
-
-DataFrames: All Combine data, FF_Database
+Tasks:
 
 Stats Summary: 	All Combine data
 		FF_database
@@ -47,4 +46,3 @@ Scatter Plots:
 				3 Cone
 				Shuttle
 				RAS
-
