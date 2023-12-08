@@ -19,6 +19,33 @@ Steps:
 
 6 Presentation 10 mins
 
-7 Testing
 
-8 updated file on 12/7/2023
+Databases: All Combine, FF_Football_Project
+
+Summary Stats: All Combine, FF_Football_Project
+
+Box and Whisker Plot: All Combine, FF_Football_Project
+
+Scatter Plot and Regression:
+       Player Total pts over Career: School
+                                  Height
+                                  Weight
+                                  40 Yard
+                                  Vertical
+                                  Bench
+                                  Broad Jump
+                                  Three Cone
+                                  Shuttle
+                                  Ras
+
+        Player Total pts per Year: School
+                                  Height
+                                  Weight
+                                  40 Yard
+                                  Vertical
+                                  Bench
+                                  Broad Jump
+                                  Three Cone
+                                  Shuttle
+                                  Ras
+                                
