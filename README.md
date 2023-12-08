@@ -36,6 +36,7 @@ Scatter Plot and Regression:
                                   Broad Jump
                                   Three Cone
                                   Shuttle
+                                  Ras
 
         Player Total pts per Year: School
                                   Height
@@ -45,5 +46,6 @@ Scatter Plot and Regression:
                                   Bench
                                   Broad Jump
                                   Three Cone
-                                  Shuttle                                
+                                  Shuttle
+                                  Ras
                                 
