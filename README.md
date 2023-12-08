@@ -19,6 +19,4 @@ Steps:
 
 6 Presentation 10 mins
 
-7 Testing
 
-8 updated file on 12/7/2023
