@@ -1,28 +1,36 @@
 Project-_FF
-Avani Patel Clarke Allan Matthew Owens Banesa Casillas Timothy Cole TBD
+Avani Patel Clarke Allan Matthew Owens Banesa Casillas 
 
-Do combine stats correlate to higher fantasy football scores?
+Fantasy Football
 
-Steps:
+**Matt**
 
-1 GitHub Repository
+Intro: 
 
-2 Aquire Data: FF Stats (Pts) Combine Stats
+Rules Explanation:
 
-2 Clean Data: Merged FF Stats - Player - Stats (Total Pts by Year) Combine Stats - Player - Combine Numbers
+Pts and Data Edge:
 
-3 Merge Data: Merged Combine DF
+Datasets/Graph:
 
-4 Analyze Data: Graphs/Charts
+Does the Combine results impact fantasy points? 
 
-5 Create ReadMe and Presentation
+**Banesa:**
 
-6 Presentation 10 mins
+Pts over time graph
+
+B&W of position 
+
+**Clarke**
+Scatter/Reggresion
+
+B&W Specifics of postion
+
+Conclusion
 
 
-Databases: All Combine, FF_Football_Project
 
-Summary Stats: All Combine, FF_Football_Project
+
 
 Box and Whisker Plot: All Combine, FF_Football_Project
 
