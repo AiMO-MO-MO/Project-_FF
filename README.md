@@ -1,9 +1,9 @@
 
 # Fantasy Football
 
-Fantasy Football is a popular math-based game that engages 29 million participants each year. This standard league involves assembling a roster of real-life athletes whose on-field performances determine the scoring of your team. Competing head-to-head against other league members each week, the goal is to compile the team with the most points to secure weekly victories. Win enough weeks to make the playoffs. Win the Playoffs to become Champion!
+Fantasy Football is a popular math-based game that engages 29 million participants each year. The standard league involves assembling a roster of real-life athletes whose on-field performances determine the scoring of your team. Competing head-to-head against league members, the goal is to compile the team with the most points to secure weekly victories. Win enough weeks and you make the playoffs. Win the Playoffs to become Champion!
 
-A Fantasy season begins on draft day, when teams take turns selecting players to fill out their roster. Drafting strategy is crucial as it lays the foundation for your season. A successful fantasy team requires a strategic balance of players.
+A Fantasy season begins on draft day, when teams take turns selecting players to fill out their roster. Drafting strategy is crucial as it lays the foundation for your season.
 
 ![image](https://github.com/AiMO-MO-MO/Project-_FF/assets/130156500/4e46c4ce-04de-4256-8c28-52c78dd4570c)
 ![image](https://github.com/AiMO-MO-MO/Project-_FF/assets/130156500/6da89ae8-59e2-47b4-b084-566f3587e3b3)
@@ -12,19 +12,16 @@ Once teams are set, the real action begins. Teams face off against each other we
 
 ![image](https://github.com/AiMO-MO-MO/Project-_FF/assets/130156500/b2f8edc9-8a4f-4e20-ad5d-cd43a37c4b30)
 
-With the actions taken on field reflected in the scores, Fantasy players can spend endless time analyzing data to try and find an edge. Matchups, Injuries, most recent Performances, Bye Weeks, Weather and Location, Offensive and Defensive philosophies are just some of the factors that can impact what a player may score that week. This leads to endless opportunities to find an edge!
+With the actions taken on field reflected in the scores, Fantasy players spend endless time analyzing the available data to try and find an edge. Matchups, injuries, recent performances, bye weeks, weather and location, Offensive and Defensive philosophies are just some of the factors that can impact how many points a player may score.
 
-One of the great data gathering events for Football is the NFL Combine. It is a week-long invitation only showcase where college football players perform physical and mental test in front of NFL coaches, General Managers, and Scouts. 
-Some of the events include: 40 yard dash, Bench Press, Vertical Jump, Broad Jump, 3 Cone Drill, Shuttle Run. 
+One of the great data gathering events for Football is the NFL Combine. It is a week-long invitation only showcase where college football players perform physical and mental test in front of NFL coaches, General Managers, and Scouts.  Some of the events include: 40 yard dash, Bench Press, Vertical Jump, Broad Jump, 3 Cone Drill, Shuttle Run. 
 
-Using the Combine data, we wanted to investigate if there was any correlation between Combine Performance and Fantasy Points scored. 
-
-
+An athletes performance can affect their draft status, salary, and ultimately their career. So we decided to investigate, using the Combine data, if there was any correlation between Combine performance and Fantasy Points (PPR) scored.
 
 ## Analysis
 ### Are Combine results correlated to an increase in Fantasy Points?
 
-**Combine Athlete Position:**
+**Combine Athlete by Position:**
 ![image](https://github.com/AiMO-MO-MO/Project-_FF/assets/130156500/5abcb179-75da-4257-9285-2036bd13a389)
 
 **Fantasy Points Scored by Year Breakdown:**
@@ -34,7 +31,7 @@ Fantasy Pts Scored has a pvalue 0.0 and does not follow a normal distribution.
 
 A dip in points occured in 2017 and 2020. 2017 had low QBR and rushing yards per attempt. 2020 had special Covid rules enacted.
 
-**Combine Data:**
+
 ![image](https://github.com/AiMO-MO-MO/Project-_FF/assets/130156500/034d7e8a-49d4-4a46-a27d-6dccfd773339)
 ![image](https://github.com/AiMO-MO-MO/Project-_FF/assets/130156500/36a10283-44f3-45a5-a04e-612170c3e853)
 
@@ -50,7 +47,7 @@ The 40 yard dash has a pvalue= 3.657943670686471e-49. A lower 40 time is good, l
 ![image](https://github.com/AiMO-MO-MO/Project-_FF/assets/130156500/0f98ad52-4d6f-48ff-8f6d-0542ceb52133)
 ![image](https://github.com/AiMO-MO-MO/Project-_FF/assets/130156500/9fc71ee7-e5ed-44cd-b384-1e4b005f4d1d)
 
-After scatter plot and regression analysis of combine results measured against fantasy points. 
+After scatter plot and regression the analysis of combine results measured against fantasy points: 
 WR Fantasy Production by Shuttle Time: 
 R-squared = .004
 WR Fantasy Production by 3 Cone Drill
@@ -64,8 +61,7 @@ R-Squared= .002
 RB Fantasy Production by 40 Time:
 R-Squared= .002 
 
-With the R-Squared at less than .00 for the charts. There is little correlation between Combine Results and fantasy points over a career.
-
+With the R-Squared at less than .00 for the charts. There is little correlation between Combine results and Fantasy points.
 
 Without much correlation to Career points, we began breaking the data down further by age range.
 
@@ -89,6 +85,7 @@ This is also visible when you compare Age 22 and 28 Wrs and RBs.
 **Do Combine results lead to more fantasy points?**
 
 With R-Squared scores under .00, we did not find correlation betwen Combine results and Total Fantasy Points.
+
 WR Fantasy Production by Shuttle Time: 
 R-squared = .004
 WR Fantasy Production by 3 Cone Drill
@@ -107,6 +104,7 @@ R-Squared= .002
 Yes, the mean age for top performing RB (over 150 fantasy points in a season) has dropped since 2000. The standard deviation has also declined for both RB’s and WR’s meaning that there are fewer exceptions than there were in 2000 and 2010.
 ![image](https://github.com/AiMO-MO-MO/Project-_FF/assets/130156500/78cac6ad-a82f-43fc-b57a-d73027e2d161)
 
+Athleticism is important in a physcial sport like football, but the specific combine events may not correlate to on field production. 
 
 ## Group Members:
 Avani Patel
@@ -119,4 +117,5 @@ Fantasy Points: Fantasy CSV Data https://github.com/bendominguez0111/fantasy-csv
 NFL Combine Results: Kaggle NFL Combine Results https://www.kaggle.com/datasets/mitchellweg1/nfl-combine-results-dataset-2000-2022
 
 ## Technologies:
-
+Python
+Jupyter Notebook
