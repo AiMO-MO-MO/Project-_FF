@@ -48,17 +48,17 @@ The 40 yard dash has a pvalue= 3.657943670686471e-49. A lower 40 time is good, l
 ![image](https://github.com/AiMO-MO-MO/Project-_FF/assets/130156500/9fc71ee7-e5ed-44cd-b384-1e4b005f4d1d)
 
 After scatter plot and regression the analysis of combine results measured against fantasy points: 
--WR Fantasy Production by Shuttle Time: 
+- WR Fantasy Production by Shuttle Time: 
 R-squared = .004
--WR Fantasy Production by 3 Cone Drill
+- WR Fantasy Production by 3 Cone Drill
 R-squared = .006
--WR Fantasy Production by 40 Time 
+- WR Fantasy Production by 40 Time 
 R-squared = .006
--RB Fantasy Production by Shuttle Time
+- RB Fantasy Production by Shuttle Time
 R-Squared= .005
--RB Fantasy Production by 3 Cone Drill:
+- RB Fantasy Production by 3 Cone Drill:
 R-Squared= .002 
--RB Fantasy Production by 40 Time:
+- RB Fantasy Production by 40 Time:
 R-Squared= .002 
 
 With the R-Squared at less than .00 for the charts. There is little correlation between Combine results and Fantasy points.
@@ -86,31 +86,31 @@ This is also visible when you compare Age 22 and 28 Wrs and RBs.
 
 With R-Squared scores under .00, we did not find correlation betwen Combine results and Total Fantasy Points.
 
--WR Fantasy Production by Shuttle Time: 
+- WR Fantasy Production by Shuttle Time: 
 R-squared = .004
--WR Fantasy Production by 3 Cone Drill
+- WR Fantasy Production by 3 Cone Drill
 R-squared = .006
--WR Fantasy Production by 40 Time 
+- WR Fantasy Production by 40 Time 
 R-squared = .006
--RB Fantasy Production by Shuttle Time
+- RB Fantasy Production by Shuttle Time
 R-Squared= .005
--RB Fantasy Production by 3 Cone Drill:
+- RB Fantasy Production by 3 Cone Drill:
 R-Squared= .002 
--RB Fantasy Production by 40 Time:
-R-Squared= .002 
+- RB Fantasy Production by 40 Time:
+R-Squared= .002
+
 
 **Does the age of player lead to more fantasy points?**
 
 Yes, the mean age for top performing RB (over 150 fantasy points in a season) has dropped since 2000. The standard deviation has also declined for both RB’s and WR’s meaning that there are fewer exceptions than there were in 2000 and 2010.
 ![image](https://github.com/AiMO-MO-MO/Project-_FF/assets/130156500/78cac6ad-a82f-43fc-b57a-d73027e2d161)
 
-Athleticism is important in a physcial sport like football, but the specific combine events may not correlate to on field production. 
 
 ## Group Members:
--Avani Patel
--Clarke Allan
--Matt Owens
--Banesa Casillas
+- Avani Patel
+- Clarke Allan
+- Matt Owens
+- Banesa Casillas
 
 ## Data Sets: 
 Fantasy Points: Fantasy CSV Data https://github.com/bendominguez0111/fantasy-csv-data?tab=readme-ov-file
