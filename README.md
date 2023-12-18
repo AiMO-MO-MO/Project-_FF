@@ -19,21 +19,28 @@ Some of the events include: 40 yard dash, Bench Press, Vertical Jump, Broad Jump
 
 Using the Combine data, we wanted to investigate if there was any correlation between Combine Performance and Fantasy Points scored. 
 
-Combine Athlete Position:
-![image](https://github.com/AiMO-MO-MO/Project-_FF/assets/130156500/5abcb179-75da-4257-9285-2036bd13a389)
+
 
 ## Analysis
 ### Are Combine results correlated to an increase in Fantasy Points?
 
+Combine Athlete Position:
+![image](https://github.com/AiMO-MO-MO/Project-_FF/assets/130156500/5abcb179-75da-4257-9285-2036bd13a389)
+
 Fantasy Points Scored by Year Breakdown:
 ![image](https://github.com/AiMO-MO-MO/Project-_FF/assets/130156500/efac36a2-e073-4f26-b31f-2d30b32a94a8)
 
-![image](https://github.com/AiMO-MO-MO/Project-_FF/assets/130156500/034d7e8a-49d4-4a46-a27d-6dccfd773339)
+Fantasy Pts Scored has a pvalue 0.0 and does not follow a normal distribution.
 
 A dip in points occured in 2017 and 2020. 2017 had low QBR and rushing yards per attempt. 2020 had special Covid rules enacted.
 
 Combine Data:
+![image](https://github.com/AiMO-MO-MO/Project-_FF/assets/130156500/034d7e8a-49d4-4a46-a27d-6dccfd773339)
+![image](https://github.com/AiMO-MO-MO/Project-_FF/assets/130156500/36a10283-44f3-45a5-a04e-612170c3e853)
 
+
+Kicking data is lacking, while the althetic profiles of various positions is similar.
+The 40 yard dash has a pvalue= 3.657943670686471e-49. A lower 40 time is good, leaving to potentially skewed data.
 
 Fantasy Points per Combine Event:
 
