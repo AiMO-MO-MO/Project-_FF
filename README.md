@@ -84,15 +84,15 @@ This is also visible when you compare Age 22 and 28 Wrs and RBs.
 
 **Do Combine results lead to more fantasy points?**
 
-With R-Squared scores under .00, we did not find correlation betwen Combine results and Total Fantasy Points.
+With R-Squared scores under .00, we did not find correlation between Combine results and Total Fantasy Points.
 
 - WR Fantasy Production by Shuttle Time: 
 R-squared = .004
-- WR Fantasy Production by 3 Cone Drill
+- WR Fantasy Production by 3 Cone Drill:
 R-squared = .006
-- WR Fantasy Production by 40 Time 
+- WR Fantasy Production by 40 Time: 
 R-squared = .006
-- RB Fantasy Production by Shuttle Time
+- RB Fantasy Production by Shuttle Time:
 R-Squared= .005
 - RB Fantasy Production by 3 Cone Drill:
 R-Squared= .002 
