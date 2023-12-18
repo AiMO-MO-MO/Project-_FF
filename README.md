@@ -105,6 +105,10 @@ R-Squared= .002
 Yes, the mean age for top performing RB (over 150 fantasy points in a season) has dropped since 2000. The standard deviation has also declined for both RB’s and WR’s meaning that there are fewer exceptions than there were in 2000 and 2010.
 ![image](https://github.com/AiMO-MO-MO/Project-_FF/assets/130156500/78cac6ad-a82f-43fc-b57a-d73027e2d161)
 
+According to our results, Combine results do not correlate to the amount of fantasy points a player may score. However, the age of the player did correlate to more points. With trends pointing to more younger players, especially in RBs, being included in the Top 16 highest scorers. Athleticism generally declines as a player gets older. This could still matter, but the Combine may not be the best metric to determine this.
+
+**Limitations**
+
 
 ## Group Members:
 - Avani Patel
@@ -113,9 +117,9 @@ Yes, the mean age for top performing RB (over 150 fantasy points in a season) ha
 - Banesa Casillas
 
 ## Data Sets: 
-Fantasy Points: Fantasy CSV Data https://github.com/bendominguez0111/fantasy-csv-data?tab=readme-ov-file
-NFL Combine Results: Kaggle NFL Combine Results https://www.kaggle.com/datasets/mitchellweg1/nfl-combine-results-dataset-2000-2022
+- Fantasy Points: Fantasy CSV Data https://github.com/bendominguez0111/fantasy-csv-data?tab=readme-ov-file
+- NFL Combine Results: Kaggle NFL Combine Results https://www.kaggle.com/datasets/mitchellweg1/nfl-combine-results-dataset-2000-2022
 
 ## Technologies:
-Python
-Jupyter Notebook
+- Python
+- Jupyter Notebook
