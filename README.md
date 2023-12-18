@@ -50,14 +50,31 @@ Fantasy Points per Combine Event:
 ![image](https://github.com/AiMO-MO-MO/Project-_FF/assets/130156500/0f98ad52-4d6f-48ff-8f6d-0542ceb52133)
 ![image](https://github.com/AiMO-MO-MO/Project-_FF/assets/130156500/9fc71ee7-e5ed-44cd-b384-1e4b005f4d1d)
 
-The scatter plots compare the combine results with the total fantasy points scored over a players career. 
-With the r² at less than .00 for the charts. There is little correlation between Combine Results and fantasy points over a career. 
+After scatter plot and regression analysis of combine results measured against fantasy points. 
+WR Fantasy Production by Shuttle Time: R-squared = .004
+WR Fantasy Production by 3 Cone Drill
+R-squared = .006
+WR Fantasy Production by 40 Time 
+R-squared = .006
+RB Fantasy Production by Shuttle Time
+R-Squared= .005
+RB Fantasy Production by 3 Cone Drill:
+R-Squared= .002 
+RB Fantasy Production by 40 Time:
+R-Squared= .002 
+
+With the r² at less than .00 for the charts. There is little correlation between Combine Results and fantasy points over a career.
+
+
+With much correlation, we began breaking the data down further.
 
 Age and Fantasy Points:
 
-![image](https://github.com/AiMO-MO-MO/Project-_FF/assets/130156500/8e098255-3db9-4b2c-a51d-145891e805e4)
-![image](https://github.com/AiMO-MO-MO/Project-_FF/assets/130156500/63f58971-f70e-4770-88ba-54f95f5ee116)
+![image](https://github.com/AiMO-MO-MO/Project-_FF/assets/130156500/beee2a1c-655e-4cc8-9e6b-670516837043)
+![image](https://github.com/AiMO-MO-MO/Project-_FF/assets/130156500/414aca6a-5b70-4b9f-8b5a-6f2bf6cb242a)
 
+![image](https://github.com/AiMO-MO-MO/Project-_FF/assets/130156500/c0984205-3867-4a35-ad73-95b0893aaba8)
+![image](https://github.com/AiMO-MO-MO/Project-_FF/assets/130156500/f5d572c0-b567-40d5-9649-a511db935d3f)
 
 
 
