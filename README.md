@@ -66,16 +66,24 @@ R-Squared= .002
 With the r² at less than .00 for the charts. There is little correlation between Combine Results and fantasy points over a career.
 
 
-With much correlation, we began breaking the data down further.
+Without much correlation to Career points, we began breaking the data down further by age range.
 
 Age and Fantasy Points:
+
+Using the Top 16 highest scorers for WR and RB. You can see a trend of the top scorers becoming younger. 
+
+![image](https://github.com/AiMO-MO-MO/Project-_FF/assets/130156500/95d8b9b6-9ec0-42a0-9660-1e9b6cba95f9)
+
+Comparing this across postions, RB age is much lower than WR or TE.
+
+![image](https://github.com/AiMO-MO-MO/Project-_FF/assets/130156500/e8057dfe-295f-42a5-812f-02f8dbef7f32)
+
+This is also visible when you compare Age 22 and 28 Wrs and RBs.
 
 ![image](https://github.com/AiMO-MO-MO/Project-_FF/assets/130156500/beee2a1c-655e-4cc8-9e6b-670516837043)
 ![image](https://github.com/AiMO-MO-MO/Project-_FF/assets/130156500/414aca6a-5b70-4b9f-8b5a-6f2bf6cb242a)
 
-![image](https://github.com/AiMO-MO-MO/Project-_FF/assets/130156500/c0984205-3867-4a35-ad73-95b0893aaba8)
-![image](https://github.com/AiMO-MO-MO/Project-_FF/assets/130156500/f5d572c0-b567-40d5-9649-a511db935d3f)
-
+#Conclusions
 
 
 ## Group Members:
@@ -87,4 +95,6 @@ Banesa Casillas
 ## Data Sets: 
 Fantasy Points: Fantasy CSV Data https://github.com/bendominguez0111/fantasy-csv-data?tab=readme-ov-file
 NFL Combine Results: Kaggle NFL Combine Results https://www.kaggle.com/datasets/mitchellweg1/nfl-combine-results-dataset-2000-2022
+
+## Technologies:
 
