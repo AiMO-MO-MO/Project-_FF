@@ -108,6 +108,21 @@ Yes, the mean age for top performing RB (over 150 fantasy points in a season) ha
 According to our results, Combine results do not correlate to the amount of fantasy points a player may score. However, the age of the player did correlate to more points. With trends pointing to more younger players, especially in RBs, being included in the Top 16 highest scorers. Athleticism generally declines as a player gets older. This could still matter, but the Combine may not be the best metric to determine this.
 
 **Limitations**
+- Combine is invite only and once per year
+- All positions are eligible, only certain used in fantasy
+- Events are athletically specific, not football specific
+- Different positions have different athletic needs
+- Fantasy Points may not be reflective of Team goals
+- Fantasy Leagues have many scoring setups/settings
+
+**Misc Observations**
+- Bench by 40 had largest R-Squared .22
+- 2017 and 2020 had large Total Points drops
+- 2020 data had the most outliers
+- WR R-Squareds the largest of any position
+- TEs are late bloomers compared to RB and WR
+- Slowest kickers are not as slow as the slowest QBs
+- QBs have the longest careers and greatest total points
 
 
 ## Group Members:
