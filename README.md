@@ -1,6 +1,5 @@
-Project-_FF
 
-#Fantasy Football
+# Fantasy Football
 
 Fantasy Football is a popular math-based game that engages approximately 29.2 million (Statista Research) participants each year. This standard league involves assembling a roster of real-life athletes whose on-field performances determine the scoring of your team. Competing head-to-head against other league members each week, the goal is to compile the team with the most points to secure weekly victories. Win enough weeks to make the playoffs. Win the Playoffs to become Champion!
 
@@ -21,16 +20,16 @@ Some of the events include: 40 yard dash, Bench Press, Vertical Jump, Broad Jump
 
 Using the Combine data, we wanted to investigate if there was any correlation between Combine Performance and Fantasy Points scored. 
 
-#Analysis
-#Are Combine results correlated to an increase in Fantasy Points?
+## Analysis
+### Are Combine results correlated to an increase in Fantasy Points?
 
-#Group Members:
+## Group Members:
 Avani Patel
 Clarke Allan
 Matt Owens
 Banesa Casillas
 
-#Data Sets: 
+## Data Sets: 
 Fantasy Points: Fantasy CSV Data https://github.com/bendominguez0111/fantasy-csv-data?tab=readme-ov-file
 NFL Combine Results: Kaggle NFL Combine Results https://www.kaggle.com/datasets/mitchellweg1/nfl-combine-results-dataset-2000-2022
 
