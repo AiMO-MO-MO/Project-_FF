@@ -1,7 +1,7 @@
 
 # Fantasy Football
 
-Fantasy Football is a popular math-based game that engages approximately 29.2 million (Statista Research) participants each year. This standard league involves assembling a roster of real-life athletes whose on-field performances determine the scoring of your team. Competing head-to-head against other league members each week, the goal is to compile the team with the most points to secure weekly victories. Win enough weeks to make the playoffs. Win the Playoffs to become Champion!
+Fantasy Football is a popular math-based game that engages 29 million participants each year. This standard league involves assembling a roster of real-life athletes whose on-field performances determine the scoring of your team. Competing head-to-head against other league members each week, the goal is to compile the team with the most points to secure weekly victories. Win enough weeks to make the playoffs. Win the Playoffs to become Champion!
 
 A Fantasy season begins on draft day, when teams take turns selecting players to fill out their roster. Drafting strategy is crucial as it lays the foundation for your season. A successful fantasy team requires a strategic balance of players.
 
@@ -24,17 +24,17 @@ Using the Combine data, we wanted to investigate if there was any correlation be
 ## Analysis
 ### Are Combine results correlated to an increase in Fantasy Points?
 
-Combine Athlete Position:
+**Combine Athlete Position:**
 ![image](https://github.com/AiMO-MO-MO/Project-_FF/assets/130156500/5abcb179-75da-4257-9285-2036bd13a389)
 
-Fantasy Points Scored by Year Breakdown:
+**Fantasy Points Scored by Year Breakdown:**
 ![image](https://github.com/AiMO-MO-MO/Project-_FF/assets/130156500/efac36a2-e073-4f26-b31f-2d30b32a94a8)
 
 Fantasy Pts Scored has a pvalue 0.0 and does not follow a normal distribution.
 
 A dip in points occured in 2017 and 2020. 2017 had low QBR and rushing yards per attempt. 2020 had special Covid rules enacted.
 
-Combine Data:
+**Combine Data:**
 ![image](https://github.com/AiMO-MO-MO/Project-_FF/assets/130156500/034d7e8a-49d4-4a46-a27d-6dccfd773339)
 ![image](https://github.com/AiMO-MO-MO/Project-_FF/assets/130156500/36a10283-44f3-45a5-a04e-612170c3e853)
 
@@ -42,7 +42,7 @@ Combine Data:
 Kicking data is lacking, while the althetic profiles of various positions is similar.
 The 40 yard dash has a pvalue= 3.657943670686471e-49. A lower 40 time is good, leaving to potentially skewed data.
 
-Fantasy Points per Combine Event:
+**Fantasy Points per Combine Event:**
 
 ![image](https://github.com/AiMO-MO-MO/Project-_FF/assets/130156500/a45b8c39-27a7-42c4-a155-c9ba4790eac1)
 
@@ -51,7 +51,8 @@ Fantasy Points per Combine Event:
 ![image](https://github.com/AiMO-MO-MO/Project-_FF/assets/130156500/9fc71ee7-e5ed-44cd-b384-1e4b005f4d1d)
 
 After scatter plot and regression analysis of combine results measured against fantasy points. 
-WR Fantasy Production by Shuttle Time: R-squared = .004
+WR Fantasy Production by Shuttle Time: 
+R-squared = .004
 WR Fantasy Production by 3 Cone Drill
 R-squared = .006
 WR Fantasy Production by 40 Time 
@@ -63,12 +64,12 @@ R-Squared= .002
 RB Fantasy Production by 40 Time:
 R-Squared= .002 
 
-With the r² at less than .00 for the charts. There is little correlation between Combine Results and fantasy points over a career.
+With the R-Squared at less than .00 for the charts. There is little correlation between Combine Results and fantasy points over a career.
 
 
 Without much correlation to Career points, we began breaking the data down further by age range.
 
-Age and Fantasy Points:
+**Age and Fantasy Points:**
 
 Using the Top 16 highest scorers for WR and RB. You can see a trend of the top scorers becoming younger. 
 
@@ -84,6 +85,27 @@ This is also visible when you compare Age 22 and 28 Wrs and RBs.
 ![image](https://github.com/AiMO-MO-MO/Project-_FF/assets/130156500/414aca6a-5b70-4b9f-8b5a-6f2bf6cb242a)
 
 #Conclusions
+
+**Do Combine results lead to more fantasy points?**
+
+With R-Squared scores under .00, we did not find correlation betwen Combine results and Total Fantasy Points.
+WR Fantasy Production by Shuttle Time: 
+R-squared = .004
+WR Fantasy Production by 3 Cone Drill
+R-squared = .006
+WR Fantasy Production by 40 Time 
+R-squared = .006
+RB Fantasy Production by Shuttle Time
+R-Squared= .005
+RB Fantasy Production by 3 Cone Drill:
+R-Squared= .002 
+RB Fantasy Production by 40 Time:
+R-Squared= .002 
+
+**Does the age of player lead to more fantasy points?**
+
+Yes, the mean age for top performing RB (over 150 fantasy points in a season) has dropped since 2000. The standard deviation has also declined for both RB’s and WR’s meaning that there are fewer exceptions than there were in 2000 and 2010.
+![image](https://github.com/AiMO-MO-MO/Project-_FF/assets/130156500/78cac6ad-a82f-43fc-b57a-d73027e2d161)
 
 
 ## Group Members:
