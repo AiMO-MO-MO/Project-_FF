@@ -138,3 +138,4 @@ According to our results, Combine results do not correlate to the amount of fant
 ## Technologies:
 - Python
 - Jupyter Notebook
+- ChatGPT
