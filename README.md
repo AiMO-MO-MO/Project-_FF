@@ -1,6 +1,8 @@
 
 # Fantasy Football
 
+-- Slide Deck - https://docs.google.com/presentation/d/1d8KF98Wnp8bUQS28Q3JNc9CPUW60VjPkxbK3phd-biY/edit#slide=id.g6ba719071f_1_155
+
 Fantasy Football is a popular math-based game that engages 29 million participants each year. The standard league involves assembling a roster of real-life athletes whose on-field performances determine the scoring of your team. Competing head-to-head against league members, the goal is to compile the team with the most points to secure weekly victories. Win enough weeks and you make the playoffs. Win the Playoffs to become Champion!
 
 A Fantasy season begins on draft day, when teams take turns selecting players to fill out their roster. Drafting strategy is crucial as it lays the foundation for your season.
